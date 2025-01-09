@@ -1,0 +1,9 @@
+<mvc:View controllerName="com.systemfox.nr.pnr1.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+        <content>
+        <Label id="idLabel01" text="Hello Robi from VS code"></Label>
+        </content>
+    </Page>
+</mvc:View>
