@@ -10,6 +10,9 @@ sap.ui.define([
         return Controller.extend("com.systemfox.nr.pnr1.controller.View1", {
             onInit: function () {
 
+                // comment added in dev brancs to check merge
+                let y = 2;
+
             }
         });
     });
